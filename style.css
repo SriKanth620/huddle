@@ -3,8 +3,8 @@
     padding: 0px;
 }
 body {
-    margin: 45px;
-    margin-bottom: 20px;
+    margin: 23px 45px;
+    margin-bottom: 10px;
     background: url("./images/bg-desktop.svg");
     background-color: hsl(257, 40%, 49%);
     color: white;
@@ -34,7 +34,7 @@ button:active{
 }
 .container {
     display: flex;
-    padding-top: 50px;
+    padding-top: 30px;
     font-weight: 400;
     margin: 0px 35px;
 }
