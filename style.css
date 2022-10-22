@@ -68,6 +68,7 @@ a {
         background-color: hsl(257, 40%, 49%);
         justify-content: center;
         align-items: center;
+        margin: 20px;
     }
     .container {
 
