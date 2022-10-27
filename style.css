@@ -16,6 +16,7 @@ header{
 }
 .con {
     padding-bottom: 20px;
+    font-size: 55px
 }
 button{
     margin-top: 20px;
@@ -39,8 +40,8 @@ button:active{
     margin: 0px 35px;
 }
 .app {
-    width: 568.844px; 
-    height: 406px;
+    width: 580.844px; 
+    height: 420.px;
 }
 .img {
     padding-right: 45px;
@@ -58,6 +59,7 @@ a {
     justify-content: right;
     gap: 10px;
     padding-right: 10px;
+    margin-top: 15px;
 }
 .icon:active {
     background-color: rgb(219, 117, 237);
